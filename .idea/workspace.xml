@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c4b9406-2f16-42fb-b101-6bed39d5b8f6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Abstracts/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Abstracts/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EnemeyClasses/Dragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EnemeyClasses/Orc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EnemeyClasses/Troll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PlayersClasses/Barbarin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PlayersClasses/Cleric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PlayersClasses/Familiar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PlayersClasses/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PlayersClasses/Monk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PlayersClasses/Warlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PlayersClasses/Wizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PlayersClasses/iDefend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PlayersClasses/iHeal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PlayersClasses/iSpell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PlayersClasses/iWeapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Room/Exit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Room/Quest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Room/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/EnemyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PlayerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2XTotAiwpvfc7KiCS16dYy2T0J4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="PlayersClasses" />
+      <recent name="EnemeyClasses" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PlayerTest.WarlockFamilarTakesDamage">
+    <configuration name="PlayerTest.ClericCanCahngeSpellAndHeal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DungeonsAndDragons" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PlayerTest" />
+      <option name="METHOD_NAME" value="ClericCanCahngeSpellAndHeal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerTest.ClericCanHeal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DungeonsAndDragons" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PlayerTest" />
+      <option name="METHOD_NAME" value="ClericCanHeal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerTest.WarlockCanChangeSpellAndAttackCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DungeonsAndDragons" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PlayerTest" />
+      <option name="METHOD_NAME" value="WarlockCanChangeSpellAndAttackCheck" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerTest.WarlockFamilarTakesDamage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DungeonsAndDragons" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PlayerTest" />
+      <option name="METHOD_NAME" value="WarlockFamilarTakesDamage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerTest.WizardsFamiliarTakesDamage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DungeonsAndDragons" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PlayerTest" />
+      <option name="METHOD_NAME" value="WizardsFamiliarTakesDamage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PlayerTest.WarlockFamilarTakesDamage" />
+        <item itemvalue="JUnit.PlayerTest.WizardsFamiliarTakesDamage" />
+        <item itemvalue="JUnit.PlayerTest.ClericCanCahngeSpellAndHeal" />
+        <item itemvalue="JUnit.PlayerTest.ClericCanHeal" />
+        <item itemvalue="JUnit.PlayerTest.WarlockCanChangeSpellAndAttackCheck" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c4b9406-2f16-42fb-b101-6bed39d5b8f6" name="Changes" comment="" />
+      <created>1698662642511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698662642511</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
